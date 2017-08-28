@@ -1,2 +1,3 @@
 # git_branch_test
-测试branch相关功能
+branch相关功能
+版本管理功能
